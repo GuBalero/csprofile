@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Poppins:wght@700;900&family=Roboto:wght@100;300;500&display=swap');
+
+@font-face {
+  font-family: 'cs_regular';
+  src: url('/fontes/cs_regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root{
+  --laranja: #FA9D1D;
+  --azul: #252F6E;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+  overflow: hidden;
+}
+
+a{
+  text-decoration: none;
+}
